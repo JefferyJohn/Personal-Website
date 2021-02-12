@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.bca54414.chunk.css",
-    "main.js": "/static/js/main.b4c8bc0d.chunk.js",
-    "main.js.map": "/static/js/main.b4c8bc0d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.2f830eec.js",
-    "runtime-main.js.map": "/static/js/runtime-main.2f830eec.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.e80cd1fb.chunk.js": "/static/js/2.e80cd1fb.chunk.js",
-    "static/js/2.e80cd1fb.chunk.js.map": "/static/js/2.e80cd1fb.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.aac903126587c6439a3740d6991b91a5.js": "/precache-manifest.aac903126587c6439a3740d6991b91a5.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.bca54414.chunk.css.map": "/static/css/main.bca54414.chunk.css.map",
-    "static/js/2.e80cd1fb.chunk.js.LICENSE.txt": "/static/js/2.e80cd1fb.chunk.js.LICENSE.txt",
-    "static/media/resume.pdf": "/static/media/resume.e36de92f.pdf"
+    "main.css": "/AkshatJindal1.github.io/static/css/main.bca54414.chunk.css",
+    "main.js": "/AkshatJindal1.github.io/static/js/main.c4c3dcef.chunk.js",
+    "main.js.map": "/AkshatJindal1.github.io/static/js/main.c4c3dcef.chunk.js.map",
+    "runtime-main.js": "/AkshatJindal1.github.io/static/js/runtime-main.a620baf6.js",
+    "runtime-main.js.map": "/AkshatJindal1.github.io/static/js/runtime-main.a620baf6.js.map",
+    "static/css/2.de424728.chunk.css": "/AkshatJindal1.github.io/static/css/2.de424728.chunk.css",
+    "static/js/2.3a7888fa.chunk.js": "/AkshatJindal1.github.io/static/js/2.3a7888fa.chunk.js",
+    "static/js/2.3a7888fa.chunk.js.map": "/AkshatJindal1.github.io/static/js/2.3a7888fa.chunk.js.map",
+    "index.html": "/AkshatJindal1.github.io/index.html",
+    "precache-manifest.457eb6431129a53c32eb3650c3ea188e.js": "/AkshatJindal1.github.io/precache-manifest.457eb6431129a53c32eb3650c3ea188e.js",
+    "service-worker.js": "/AkshatJindal1.github.io/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/AkshatJindal1.github.io/static/css/2.de424728.chunk.css.map",
+    "static/css/main.bca54414.chunk.css.map": "/AkshatJindal1.github.io/static/css/main.bca54414.chunk.css.map",
+    "static/js/2.3a7888fa.chunk.js.LICENSE.txt": "/AkshatJindal1.github.io/static/js/2.3a7888fa.chunk.js.LICENSE.txt",
+    "static/media/resume.pdf": "/AkshatJindal1.github.io/static/media/resume.e36de92f.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.2f830eec.js",
-    "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.e80cd1fb.chunk.js",
+    "static/js/runtime-main.a620baf6.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.3a7888fa.chunk.js",
     "static/css/main.bca54414.chunk.css",
-    "static/js/main.b4c8bc0d.chunk.js"
+    "static/js/main.c4c3dcef.chunk.js"
   ]
 }
